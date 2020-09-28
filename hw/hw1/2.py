@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 import sys
 def run():
     # This waits for an explicit EOF (C-D)
