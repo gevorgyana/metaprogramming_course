@@ -1,12 +1,19 @@
-column limit: the biggest challenge is to adjust code to
+- Column limit: the biggest challenge is to adjust code to
 a given column limit. Otherwise we would just pretty-print
 the whole AST [1]
 
+- Have to reformat string literals
+
+- 🤔 Use the test cases from clang? ObjC is similar to Swift
+
+- Here is what *clang* does. They separate 'includes'-sorting from
+reformatting and apply one after the other.
+
+![Genius piece of C++ code 👏](images/genius_llvm.jpg)
+
+### References
+
 [1] [blog 1](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
-
-Have to reformat string literals
-
-🤔 Use the test cases from clang? ObjC is similar to Swift
 
 ### Solution #1
 
