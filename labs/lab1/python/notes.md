@@ -6,6 +6,8 @@ the whole AST [1]
 
 Have to reformat string literals
 
+🤔 Use the test cases from clang? ObjC is similar to Swift
+
 ### Solution #1
 
 TODO fill in the rest 😴
