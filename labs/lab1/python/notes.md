@@ -16,6 +16,9 @@ some kind
 
 ![This is a prelude to every formatting pass](images/there_is_a_parser.png)
 
+- apple/swift already has Swift lexer, which interacts with LLVM code.
+This can serve as ference implementation.
+
 ### References
 
 [1] [blog 1](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
