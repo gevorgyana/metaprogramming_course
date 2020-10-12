@@ -11,6 +11,11 @@ reformatting and apply one after the other.
 
 ![Genius piece of C++ code 👏](images/genius_llvm.jpg)
 
+- Clang also parses input tokens into an intermediate representation of
+some kind
+
+![This is a prelude to every formatting pass](images/there_is_a_parser.png)
+
 ### References
 
 [1] [blog 1](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
