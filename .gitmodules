@@ -1,0 +1,3 @@
+[submodule "labs/lab1/deps/swift-lexer-standalone"]
+	path = labs/lab1/deps/swift-lexer-standalone
+	url = git@github.com:gevorgyana/swift-lexer-standalone.git
